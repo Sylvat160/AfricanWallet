@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "awa",
+    "slug": "awa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
